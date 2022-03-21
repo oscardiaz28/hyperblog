@@ -7,3 +7,4 @@ En este curso vemos de todo:
 * El flujo de trabajo con Github
 * El verdadero amor por las buenas practicas
 * Creado por el increible platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
