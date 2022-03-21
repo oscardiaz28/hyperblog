@@ -8,3 +8,4 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas
 * Creado por el increible platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
